@@ -29,3 +29,5 @@ The plugin connects directly to Google AI Studio using your own personal API key
 <li>Data Handling: On Google's Free Tier, prompts and images may be reviewed by automated systems to train models. If strict data confidentiality is required, connecting a paid Google Cloud billing account disables model training logs.
 </ul>
 <p>Learn more about Google's setup: <a href="https://ai.google.dev/gemini-api/docs/api-key" target="_blank" rel="noopener">Google API Key Setup Guide</a> | <a href="https://aistudio.google.com/docs/pricing" target="_blank" rel="noopener">Google AI Studio Pricing</a>.</p>
+
+For detailed installation instructions see <a href="https://jgalea.com/wildlife-identifier/">My detailed help page.
